@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/db081b6ffcd3d3702fc259e1d168a74fbce28f83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_694afa7cd7fb01534673972a8c06a9eb50cd38cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/Software/worklight/android-sdk-linux/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_b997965a8e2541bdf5a6368d5f2d24204d592cf6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/4f0f012ec9458967fa5b142c506651a0b1d153e6/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_bfc884ac98f242306f35dbadedfd0bf0176e3c43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/6c0f31cd11d49e7310ee63fe8b230b6bf5c5c787/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_3d00191083295409fd8477e7808f0a53904a92fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/8238599c40d668f992164ebdf13a3be313fb4611/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_c7dcc11b800984be5ddc6af47f8fbd5570fdcf10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/4f0f012ec9458967fa5b142c506651a0b1d153e6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_a7ed7f66e564597f9e4e7510e0fd564239cd20c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/cb5a8a71c735dff7fa6bf8bd77739b0fc715ba35/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_b033b7b9eff8a1479169cfe3d36ffe1473014a37.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/dba58d9843be994461024c777fd0f51b0b5ca11e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_b2390f7f4f07f26fc729979b276ab6298bd72efb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/90e8f4c4cc59e1e2a169c023ffdfe23785a7ec9a/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_c995e3a9b725a57cbae85ab756410bc3b986b35c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/Software/worklight/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/support-annotations-25.0.0_e7bbc3abd9125627b0977d6e1eb5e7d11f35977d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/18111f5b31655e53cccda25efda22ac618cb222c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_82838289a316a95883293fcd7ec8c65ee73dded9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/5d8d3bbf685f2bdb8eb52645b2f6368392349baf/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_075e02e2a649b8271015b49bdcb94fe1b0c03960.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/f6efa8e9731bd1ae7ae3caa0e00c8cfa26139298/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_17a361ff35527e3be690ef5105052082305a2fb5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/90e8f4c4cc59e1e2a169c023ffdfe23785a7ec9a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_37124267ce8da369bb50a352541e2f7931d23038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/43e33e9a31ca819f9ca0165287bab5639931f43c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_b8acdb6f018fc160a9bc1dfa57c72b55931482af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/b40688d1841abc99818b34c7515c58f7893f0ed5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_2acba9184789f72adeafba58ff19038356d57ab1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/dc0d935080a39ef64785a582646b93465e80bebe/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_61aee6b8618b89ee744a0019fadd6f8c4594c361.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/37c2dec7318a2fb05a74aae0afb89d4e29323115/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_73594678d5504d06560fbc7279a9055160249d4e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/8238599c40d668f992164ebdf13a3be313fb4611/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_3c31777b0086f2cc15c15cbeabec13e5215003b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/43e33e9a31ca819f9ca0165287bab5639931f43c/output/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/internal_impl-25.0.0_a5d8afdb0cafc5c41d6c095b6de26cf3a28e3acf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/snap37/.android/build-cache/5d8d3bbf685f2bdb8eb52645b2f6368392349baf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/snap37/Demos/android-assignment-master/app/build/intermediates/pre-dexed/debug/classes_ae0e281c9d3fe77750b7c8ac4780fa614bfbffc0.jar" />
+    </item>
+
+</items>
